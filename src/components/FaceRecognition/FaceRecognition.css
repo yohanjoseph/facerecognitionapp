@@ -6,3 +6,8 @@
   justify-content: center;
   cursor: pointer;
 }
+
+.celeb-name {
+  font-size: 30px;
+  font-family: sans-serif;
+}
